@@ -14,7 +14,7 @@
         Each village is represented by an NFT. Each NFT's name will be the village id and the name. 
         For example, if the first village is named "My village", the NFT's name will be "Village #1:
         My village". Another example, if the 894th village is named "Earl's village of greatness", 
-        NFT's name will be "Village #894: Earl's village of greatness". The NFT's description will 
+        NFT's name will be "Village #894: \"Earl's village of greatness\"". The NFT's description will 
         be "Village collection description". The NFT's URI will be "Village collection URI". The 
         NFT's royalty will be 0. 
 
